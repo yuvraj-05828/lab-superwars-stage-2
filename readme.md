@@ -33,7 +33,7 @@ Open the `SpecRunner.html` file on your browser and start coding to pass the tes
 
 ### Progression 1: More players, more fun
 
-Dustin and Lucus wants to create players.In `initPlayers()`, loop through passed constant and  create JSON Objects, such that each player contains name, strength, image url and type.  
+Dustin and Lucus wants to create players.In `initPlayers()`, loop through passed constant and  create Objects, such that each player contains name, strength, image url and type.  
 * Use default `strength` as any number.  
 * `image` can be sequential i.e. "images/super-"+(i+1)+".png"  
 * `type` of player can alternating between hero and villain or your own logic
