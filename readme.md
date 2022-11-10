@@ -17,17 +17,6 @@ Here is the boilerplate [link](https://github.com/Kalvium-Program/lab-superwars-
 > **Note:** Before starting this lab, migrate the HTML and CSS code from the lab on Superwars stage 1's code to this lab
 
 
-## How To Submit
-```
-Upon completion, run the following commands:
-
-git add .
-git commit -m "ProGrad ID"
-git push origin master
-
-And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
-```
-
 ## Starter code
 
 The `src/app.js` contains an array of 20 Super Heroes and Super-Villains. We are talking about the array of 20 _strings_ containing each Super Heroes and Super-Villains names. Here is one example of how the data is displayed:
