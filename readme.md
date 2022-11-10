@@ -11,11 +11,11 @@ Lucus always loves protagonists like most of us. But Dustin is quite crazy, he l
 Okay, let us explain. They are going to facilitate the ultimate war between Super Heroes and Super Villains. As they are new to these technologies, they need a **Kalvian** to help them build this game.
 
 ## What should you do
-```
-Fork this repo
-Clone this repo
-Practice JavaScript Basics - Operators, Conditions, Loops
-```
+
+Here is the boilerplate [link](https://github.com/Kalvium-Program/lab-superwars-stage-2) of the lab. Fork the project to your GitHub account, clone the repo to your local machine and get started with the lab.
+
+> **Note:** Before starting this lab, migrate the HTML and CSS code from the lab on Superwars stage 1's code to this lab
+
 
 ## How To Submit
 ```
@@ -79,5 +79,9 @@ In `buildPlayers()`, loop through the created JSON objects and accumulate HTML t
 
 ![Superwars](doc/superwars-basic1.png)
 ![Superwars](doc/superwars-basic2.png)
+
+## How To Submit
+
+Save your lab project and submit your project link in this [form](https://docs.google.com/forms/d/1FsIKaMGG8g_xISwHg0oGVQJpgHCXVRQGSQmpytu-b_o/viewform?usp=pp_url&entry.1483932328=CSK101-M2-L74.1).
 
 Happy Coding ❤️
